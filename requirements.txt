@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+nltk
+gensim
+tensorflow
+sentence-transformers
+catboost
+optuna
+shap
